@@ -1,0 +1,25 @@
+1. Landing page with play button only. (full landing page).
+2. Play transfers you to the game scene.
+3. Basic game scene
+	a. Ball that can be controlled by the finger wherever in the screen.
+	b. Gravity
+	c. Platform - Collidable object.
+	d. Collision ball and platform - There is friction between them. 
+	   The ball must come from above the platform.
+	   
+4. Inifinte game scene running
+	a. Score - per height.
+	b. Moving camera. (temple run chase)
+	c. Arrow for the ball movement.
+	d. Platform generator.
+	e. Save high score and display it.
+	f. Navigate between pages. Restart and pause menu.
+
+5. 	Full game running
+	a. A lot of creative platforms.
+	b. Waves (Worlds, Stages)
+	c. Bonus level.
+	d. Powerups.
+	e. Store.
+	f. Leaderboards (across world)
+	g. 
